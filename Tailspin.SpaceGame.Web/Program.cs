@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore;
+﻿// Bienvenidos al Sistema SpaceGame
+// Creado por JFDavelouis
+
+using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
 namespace TailSpin.SpaceGame.Web
